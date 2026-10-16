@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Sai 👋
 
-<!--
-**smanika3/smanika3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS grad student at ASU who likes reading a research paper and then trying to make it actually work. Most of my time goes into machine learning, and most of what's here is the result.
 
-Here are some ideas to get you started:
+## What I'm into
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Deep learning and computer vision
+- LLM systems, especially getting them to behave reliably
+- AI for medical imaging
+
+## What I've built
+
+- **Accessibility tool** that writes alt text for lecture slides and hands the unsure cases to a person
+- **Multi-agent system** that reviews mutual funds and shows its work
+- **Chest X-ray models** built on Swin Transformers
+
+## Check out some stuff i've built
+
+- [**ASU-AIR-SlideSight**](https://github.com/smanika3/ASU-AIR-SlideSight)
+- [**FundSentinel**](https://github.com/smanika3/FundSentinel)
+- [**Swin-CXR-Suite**](https://github.com/smanika3/Swin-CXR-Suite)
+
+More about me and the rest of my work lives at [smanika3.github.io](https://smanika3.github.io/).
+
+---
+
+Thanks for stopping by. If something here catches your eye, say hi: [LinkedIn](https://www.linkedin.com/in/smanika3/) or [email](mailto:saisrivathsan2004@gmail.com). ✌️
