@@ -14,7 +14,7 @@ I'm a CS grad student at ASU who likes reading a research paper and then trying 
 - **Multi-agent system** that reviews mutual funds and shows its work
 - **Chest X-ray models** built on Swin Transformers
 
-## Check out some stuff i've built
+## Check out some stuff I've built
 
 - [**ASU-AIR-SlideSight**](https://github.com/smanika3/ASU-AIR-SlideSight)
 - [**FundSentinel**](https://github.com/smanika3/FundSentinel)
